@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chatroom/static/css/main.2cbdf5f0.css",
+    "main.js": "/chatroom/static/js/main.f75160d5.js",
+    "index.html": "/chatroom/index.html",
+    "main.2cbdf5f0.css.map": "/chatroom/static/css/main.2cbdf5f0.css.map",
+    "main.f75160d5.js.map": "/chatroom/static/js/main.f75160d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cbdf5f0.css",
+    "static/js/main.f75160d5.js"
+  ]
+}
